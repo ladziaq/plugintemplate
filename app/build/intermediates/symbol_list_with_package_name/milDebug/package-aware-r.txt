@@ -23,6 +23,11 @@ drawable ic_launcher
 drawable new_dark_button_bg
 drawable new_dark_button_disabled
 drawable new_dark_button_selected
+id divider
+id ipAddr1
+id ipAddr2
+id ipAddr3
+id ipAddr4
 id item_touch_helper_previous_elevation
 id lat_textView
 id latitude_editText
@@ -40,7 +45,9 @@ string app_desc
 string app_name
 string get_coordinates_button_text
 string hello_blank_fragment
+string input_ip_addr
 string insert_point
+string ip_addr
 string lat
 string lon
 string long_lat

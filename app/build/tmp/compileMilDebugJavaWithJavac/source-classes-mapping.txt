@@ -9,6 +9,8 @@ com/atakmap/android/plugintemplate/plugin/BuildConfig.java
 com/atakmap/android/plugintemplate/PluginTemplateDropDownReceiver.java
  com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver
  com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$1
+ com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$2
+ com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$3
  com.atakmap.android.plugintemplate.PluginTemplateDropDownReceiver$LongRunningTask
 com/atakmap/android/plugintemplate/plugin/PluginTemplateTool.java
  com.atakmap.android.plugintemplate.plugin.PluginTemplateTool
