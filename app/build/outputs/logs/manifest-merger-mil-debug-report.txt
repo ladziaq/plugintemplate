@@ -46,7 +46,7 @@ ADDED from C:\Users\praktyki\Desktop\atakSDK\atak-civ\plugin-examples\plugintemp
 	android:extractNativeLibs
 		ADDED from C:\Users\praktyki\Desktop\atakSDK\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:14:9-41
 	android:label
-		ADDED from C:\Users\praktyki\Desktop\atakSDK\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from C:\Users\praktyki\Desktop\atakSDK\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:12:9-49
 	android:icon
 		ADDED from C:\Users\praktyki\Desktop\atakSDK\atak-civ\plugin-examples\plugintemplate\app\src\main\AndroidManifest.xml:11:9-45
 	android:allowBackup
