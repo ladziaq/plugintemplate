@@ -54,6 +54,7 @@ string long_lat
 string mark_button_text
 string new_mark_button_text
 string no_connection
+string old_radiostation
 string radio_location
 string radiostation
 string send_location

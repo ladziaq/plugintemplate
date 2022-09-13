@@ -53,11 +53,12 @@ int string long_lat 0x7f07000b
 int string mark_button_text 0x7f07000c
 int string new_mark_button_text 0x7f07000d
 int string no_connection 0x7f07000e
-int string radio_location 0x7f07000f
-int string radiostation 0x7f070010
-int string send_location 0x7f070011
-int string versionName 0x7f070012
-int string wait 0x7f070013
+int string old_radiostation 0x7f07000f
+int string radio_location 0x7f070010
+int string radiostation 0x7f070011
+int string send_location 0x7f070012
+int string versionName 0x7f070013
+int string wait 0x7f070014
 int style ATAKEditText 0x7f080000
 int style ATAKPluginTheme 0x7f080001
 int style ATAKSpinner 0x7f080002

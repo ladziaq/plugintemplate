@@ -4,15 +4,15 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.atakmap.android.plugintemplate.plugin",
+  "applicationId": "com.atakmap.android.plugintemplate",
   "variantName": "milDebug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 1663051695,
-      "versionName": "4.5.1 (86ebe720) - [4.5.1]",
-      "outputFile": "ATAK-Plugin-plugintemplate-4.5.1-86ebe720-4.5.1-mil-debug.apk"
+      "versionCode": 1663056456,
+      "versionName": "4.5.1 (526c6d39) - [4.5.1]",
+      "outputFile": "ATAK-Plugin-plugintemplate-4.5.1-526c6d39-4.5.1-mil-debug.apk"
     }
   ]
 }
